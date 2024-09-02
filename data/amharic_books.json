@@ -1,0 +1,602 @@
+{
+    "1": {
+        "title": "ከአድማስ ባሻገር",
+        "author": "በዓሉ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437481485i/25950435.jpg",
+        "rating": 3.66
+    },
+    "2": {
+        "title": "ፍቅር   እስከ መቃብር",
+        "author": "ሀዲስ ዓለማየሁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436443449i/25877188.jpg",
+        "rating": 4.05
+    },
+    "3": {
+        "title": "የተቆለፈበት ቁልፍ",
+        "author": "ምህረት ደበበ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437980703i/18007965.jpg",
+        "rating": 3.77
+    },
+    "4": {
+        "title": "እመጓ",
+        "author": "ዓለማየሁ ዋሴ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440572322i/26167585.jpg",
+        "rating": 4.01
+    },
+    "5": {
+        "title": "ትኩሳት",
+        "author": "ስብሐት ገብረ እግዚአብሔር",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440075545i/8887849.jpg",
+        "rating": 3.69
+    },
+    "6": {
+        "title": "ኦሮማይ",
+        "author": "በዓሉ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455008375i/2400872.jpg",
+        "rating": 4.02
+    },
+    "7": {
+        "title": "ሰመመን",
+        "author": "ሲሳይ ንጉሱ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440148810i/26138910.jpg",
+        "rating": 3.86
+    },
+    "8": {
+        "title": "ከአሜን ባሻገር",
+        "author": "በዕውቀቱ ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452848260i/28567900.jpg",
+        "rating": 3.88
+    },
+    "9": {
+        "title": "ሌላሠው",
+        "author": "ምህረት ደበበ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438326322i/26013197.jpg",
+        "rating": 4.02
+    },
+    "10": {
+        "title": "አልወለድም",
+        "author": "አቤ ጉበኛ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439992491i/26128840.jpg",
+        "rating": 3.83
+    },
+    "11": {
+        "title": "Dertogada",
+        "author": "Yismake Worku",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440333317i/16133457.jpg",
+        "rating": 4.21
+    },
+    "12": {
+        "title": "ቆንጆዎቹ",
+        "author": "ሠርቅ ዳንኤል",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440321534i/26149703.jpg",
+        "rating": 3.94
+    },
+    "13": {
+        "title": "እሳት ወይ አበባ",
+        "author": "ፀጋዬ ገብረ መድኅን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442570844i/26217595.jpg",
+        "rating": 4.26
+    },
+    "14": {
+        "title": "ደራሲው",
+        "author": "በዓሉ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439386401i/26087481.jpg",
+        "rating": 3.95
+    },
+    "15": {
+        "title": "ግራጫ ቃጭሎች",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439387781i/25955670.jpg",
+        "rating": 4.21
+    },
+    "16": {
+        "title": "አራቱ ኃያላን",
+        "author": "ዳንኤል ክብረት",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440151914i/26139099.jpg",
+        "rating": 3.7
+    },
+    "17": {
+        "title": "ልጅነት",
+        "author": "ዘነበ ወላ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436430008i/25876701.jpg",
+        "rating": 4.3
+    },
+    "18": {
+        "title": "እንቅልፍ እና ዕድሜ",
+        "author": "በዕውቀቱ ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439198643i/26072867.jpg",
+        "rating": 3.66
+    },
+    "19": {
+        "title": "የልምዣት",
+        "author": "ሀዲስ ዓለማየሁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440330366i/26150198.jpg",
+        "rating": 3.93
+    },
+    "20": {
+        "title": "የቀይ ኮከብ ጥሪ",
+        "author": "በዓሉ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437481194i/25950746.jpg",
+        "rating": 3.86
+    },
+    "21": {
+        "title": "መግባት እና መውጣት",
+        "author": "በዕውቀቱ ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439200947i/26073181.jpg",
+        "rating": 4.16
+    },
+    "22": {
+        "title": "ሌቱም አይነጋልኝ",
+        "author": "ስብሐት ገብረ እግዚአብሔር",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440072329i/26134027.jpg",
+        "rating": 3.8
+    },
+    "23": {
+        "title": "መልክአ ስብሐት",
+        "author": "ዓለማየሁ ገላጋይ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439455941i/26092076.jpg",
+        "rating": 3.81
+    },
+    "24": {
+        "title": "አደፍርስ",
+        "author": "ዳኛቸው ወርቁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437981703i/14957251.jpg",
+        "rating": 4.37
+    },
+    "25": {
+        "title": "የቡርቃ ዝምታ",
+        "author": "ተስፋዬ ገብረአብ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440146666i/26138840.jpg",
+        "rating": 3.54
+    },
+    "26": {
+        "title": "መረቅ",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439381854i/26079618.jpg",
+        "rating": 4.28
+    },
+    "27": {
+        "title": "አምስት ስድስት ሰባት እና ሌሎችም ታሪኮች",
+        "author": "ስብሐት ገብረ እግዚአብሔር",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440062562i/26133599.jpg",
+        "rating": 4.05
+    },
+    "28": {
+        "title": "የተወጋ ልብ",
+        "author": "ትክክል ገና",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440422783i/26157175.jpg",
+        "rating": 3.5
+    },
+    "29": {
+        "title": "ዙቤይዳ",
+        "author": "አሌክስ አብርሃም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439987420i/26128288.jpg",
+        "rating": 4.25
+    },
+    "30": {
+        "title": "ወንጀለኛው ዳኛ",
+        "author": "ሀዲስ ዓለማየሁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440330229i/26150183.jpg",
+        "rating": 3.85
+    },
+    "31": {
+        "title": "አንድ ለናቱ",
+        "author": "አቤ ጉበኛ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439994425i/26128993.jpg",
+        "rating": 4.32
+    },
+    "32": {
+        "title": "የቢሾፍቱ ቆሪጦች",
+        "author": "ተስፋዬ ገብረአብ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440147042i/26138868.jpg",
+        "rating": 3.7
+    },
+    "33": {
+        "title": "እቴሜቴ ሎሚ ሽታ",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439388347i/17343289.jpg",
+        "rating": 4.14
+    },
+    "34": {
+        "title": "አለንጋና ምስር",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439387314i/25859737.jpg",
+        "rating": 4.22
+    },
+    "35": {
+        "title": "ይወስዳል መንገድ ያመጣል መንገድ",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439381244i/25859724.jpg",
+        "rating": 4.45
+    },
+    "36": {
+        "title": "የኤርትራ ጉዳይ",
+        "author": "ዘውዴ ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454705473i/28942458.jpg",
+        "rating": 4.3
+    },
+    "37": {
+        "title": "የሁለት ሐውልቶች ወግ እና ሌሎች",
+        "author": "ዳንኤል ክብረት",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441268083i/26217610.jpg",
+        "rating": 4.12
+    },
+    "38": {
+        "title": "ጠጠሮቹ እና ሌሎች",
+        "author": "ዳንኤል ክብረት",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441268812i/26217658.jpg",
+        "rating": 3.75
+    },
+    "39": {
+        "title": "ዐፄ ዮሐንስና የኢትዮጵያ አንድነት",
+        "author": "ተክለጻድቅ መኩሪያ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440339052i/26150965.jpg",
+        "rating": 4.19
+    },
+    "40": {
+        "title": "ትዝታ",
+        "author": "ሀዲስ ዓለማየሁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440330525i/26150208.jpg",
+        "rating": 3.87
+    },
+    "41": {
+        "title": "የቃየን መሥዋዕት",
+        "author": "ሠርቅ ዳንኤል",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440340452i/26149711.jpg",
+        "rating": 4.08
+    },
+    "42": {
+        "title": "ሰባተኛው መልአክ",
+        "author": "ስብሐት ገብረ እግዚአብሔር",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440423437i/26157237.jpg",
+        "rating": 4.0
+    },
+    "43": {
+        "title": "ፍቅር እዚህ ቦታ ፈገግ ብሎ ነበር",
+        "author": "ኤፍሬም ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454703920i/28942323.jpg",
+        "rating": 3.85
+    },
+    "44": {
+        "title": "የህሊና ደወል",
+        "author": "በዓሉ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440150550i/26139036.jpg",
+        "rating": 4.21
+    },
+    "45": {
+        "title": "ስማችሁ የለም እና ሌሎች",
+        "author": "ዳንኤል ክብረት",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440152236i/26139116.jpg",
+        "rating": 4.0
+    },
+    "46": {
+        "title": "የቴዎድሮስ ዕንባ",
+        "author": "ብርሃኑ ዘርይሁን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440336607i/26150814.jpg",
+        "rating": 4.36
+    },
+    "47": {
+        "title": "የደራሲው ማሰታወሻ",
+        "author": "ተስፋዬ ገብረአብ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440146350i/13633739.jpg",
+        "rating": 3.64
+    },
+    "48": {
+        "title": "ዐፄ ምኒልክና የኢትዮጵያ አንድነት",
+        "author": "ተክለጻድቅ መኩሪያ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440339153i/26150971.jpg",
+        "rating": 3.92
+    },
+    "49": {
+        "title": "ስብሐት ገብረእግዚአብሔር ሕይወትና ክህሎት",
+        "author": "ዓለማየሁ ገላጋይ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440329970i/26150173.jpg",
+        "rating": 4.32
+    },
+    "50": {
+        "title": "እኛ የመጨረሻዎቹ እና ሌሎች",
+        "author": "ዳንኤል ክብረት",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440152112i/26139110.jpg",
+        "rating": 3.67
+    },
+    "51": {
+        "title": "ስብስብ ግጥሞች",
+        "author": "በዕውቀቱ ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439992212i/26128594.jpg",
+        "rating": 3.99
+    },
+    "52": {
+        "title": "ዶክተር አሸብር እና ሌሎችም",
+        "author": "አሌክስ አብርሃም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439988648i/26128367.jpg",
+        "rating": 4.23
+    },
+    "53": {
+        "title": "ወሪሳ",
+        "author": "ዓለማየሁ ገላጋይ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439215233i/26050487.jpg",
+        "rating": 4.18
+    },
+    "54": {
+        "title": "ምርኮኛ",
+        "author": "ቆንጅት ብርሃን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440339843i/26151012.jpg",
+        "rating": 4.27
+    },
+    "55": {
+        "title": "በራሪ ቅጠሎች",
+        "author": "በዕውቀቱ ስዩም",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.26
+    },
+    "56": {
+        "title": "ማስታወሻ",
+        "author": "ዘነበ ወላ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439989988i/26128447.jpg",
+        "rating": 4.37
+    },
+    "57": {
+        "title": "አፍሮጋዳ",
+        "author": "ሌሊሳ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440588677i/26168222.jpg",
+        "rating": 3.63
+    },
+    "58": {
+        "title": "አብዮቱና ትዝታዬ",
+        "author": "ፍሥሐ ደስታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450691078i/28253673.jpg",
+        "rating": 3.79
+    },
+    "59": {
+        "title": "ኦቶባዮግራፊ",
+        "author": "ተክለሐዋርያት ተክለማርያም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436449145i/25877477.jpg",
+        "rating": 4.6
+    },
+    "60": {
+        "title": "መጽሐፈ ትዝታ - ዘአለቃ ለማ ኃይሉ ወልደ ታሪክ",
+        "author": "መንግስቱ ለማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440076470i/26134390.jpg",
+        "rating": 3.9
+    },
+    "61": {
+        "title": "ሕማማትና በገና",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439386992i/26087527.jpg",
+        "rating": 4.16
+    },
+    "62": {
+        "title": "የጋዜጠኛው ማስታወሻ",
+        "author": "ተስፋዬ ገብረአብ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440146480i/13553162.jpg",
+        "rating": 3.69
+    },
+    "63": {
+        "title": "ፍካሬ ኢትዮጵያ",
+        "author": "አብነት ስሜ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454396335i/28862939.jpg",
+        "rating": 4.08
+    },
+    "64": {
+        "title": "አባቴና እምነቱ",
+        "author": "ሥምረት አያሌው",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442820231i/26789937.jpg",
+        "rating": 4.25
+    },
+    "65": {
+        "title": "ግርዶሽ",
+        "author": "ሲሳይ ንጉሱ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440422083i/26138912.jpg",
+        "rating": 3.85
+    },
+    "66": {
+        "title": "የበደል ፍጻሜ",
+        "author": "ብርሃኑ ዘርይሁን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458549632i/26150854.jpg",
+        "rating": 3.22
+    },
+    "67": {
+        "title": "ባርቾ",
+        "author": "ሕይወት እምሻው",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436519954i/25882198.jpg",
+        "rating": 4.13
+    },
+    "68": {
+        "title": "ማሕሌት",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437472043i/25950240.jpg",
+        "rating": 4.39
+    },
+    "69": {
+        "title": "የብርሃን ፈለጎች",
+        "author": "ዓለማየሁ ገላጋይ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438860670i/26050242.jpg",
+        "rating": 4.32
+    },
+    "70": {
+        "title": "አጥቢያ",
+        "author": "ዓለማየሁ ገላጋይ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438865487i/26050569.jpg",
+        "rating": 4.09
+    },
+    "71": {
+        "title": "ረቂቅ አሻራ",
+        "author": "ሲሳይ ንጉሱ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440149823i/26138924.jpg",
+        "rating": 4.06
+    },
+    "72": {
+        "title": "የአብዮት ማግሥት (ማዕበል, #3)",
+        "author": "ብርሃኑ ዘርይሁን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440336329i/26150702.jpg",
+        "rating": 3.93
+    },
+    "73": {
+        "title": "መንገድ ስጡኝ ሰፊ",
+        "author": "ገብረ ክርስቶስ ደስታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436424897i/25876517.jpg",
+        "rating": 4.5
+    },
+    "74": {
+        "title": "ሉዓላዊነትና ዲሞክራሲ በኢትዮጵያ",
+        "author": "ገብሩ አስራት",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440329270i/26150122.jpg",
+        "rating": 4.0
+    },
+    "75": {
+        "title": "የአብዮት ዋዜማ (ማዕበል, #1)",
+        "author": "ብርሃኑ ዘርይሁን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440335774i/26150694.jpg",
+        "rating": 4.4
+    },
+    "76": {
+        "title": "ታሪካዊ ተውኔቶች",
+        "author": "ፀጋዬ ገብረ መድኅን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441267469i/26217579.jpg",
+        "rating": 4.0
+    },
+    "77": {
+        "title": "ዝጎራ",
+        "author": "ዓለማየሁ ዋሴ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499664223i/35633345.jpg",
+        "rating": 4.14
+    },
+    "78": {
+        "title": "የከፍተኛ ትምህርት ዘይቤ",
+        "author": "እጓለ ገብረ ዮሐንስ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454313709i/28819645.jpg",
+        "rating": 4.18
+    },
+    "79": {
+        "title": "የአብዮት መባቻ (ማዕበል, #2)",
+        "author": "ብርሃኑ ዘርይሁን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440332634i/26139190.jpg",
+        "rating": 4.27
+    },
+    "80": {
+        "title": "የመንጌ ውሽሚት እና ሌሎችም ውብ ታሪኮች",
+        "author": "ተስፋዬ አለነ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439990809i/26128500.jpg",
+        "rating": 4.08
+    },
+    "81": {
+        "title": "የምሽት እንግዳ",
+        "author": "አስራት ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440152565i/26139130.jpg",
+        "rating": 4.1
+    },
+    "82": {
+        "title": "ጭጋግና ጠል እና ሌሎች",
+        "author": "አዳም ረታ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.44
+    },
+    "83": {
+        "title": "ባሻ ቅጣው",
+        "author": "ሣህለስላሴ ብርሃነማርያም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440329653i/26150149.jpg",
+        "rating": 4.5
+    },
+    "84": {
+        "title": "ጽላሎት",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458553691i/29565297.jpg",
+        "rating": 4.1
+    },
+    "85": {
+        "title": "ተረት ተረት የመሰረት",
+        "author": "ሀዲስ ዓለማየሁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454314664i/28819699.jpg",
+        "rating": 3.34
+    },
+    "86": {
+        "title": "ድርሳነ ፖለቲካ - ፍልስፍናዊ እሳቤዎች",
+        "author": "ቃልኪዳን ይበልጣል",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1443171035i/26812657.jpg",
+        "rating": 3.2
+    },
+    "87": {
+        "title": "ደማሙ ብዕረኛ",
+        "author": "መንግስቱ ለማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440144783i/26134447.jpg",
+        "rating": 4.2
+    },
+    "88": {
+        "title": "ቄሳርና አብዮት",
+        "author": "ብርሃኑ ድንቄ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436274547i/25865762.jpg",
+        "rating": 4.41
+    },
+    "89": {
+        "title": "የፍሬሿ ማስታወሻ",
+        "author": "ሄርሜላ ሰለሞን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453983913i/28792261.jpg",
+        "rating": 3.22
+    },
+    "90": {
+        "title": "ትንሣኤ",
+        "author": "ሲሳይ ንጉሱ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.73
+    },
+    "91": {
+        "title": "ስም ከመቃብር በላይ",
+        "author": "ጌታቸው የሮም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441267196i/26217568.jpg",
+        "rating": 3.6
+    },
+    "92": {
+        "title": "የቄሳር እንባ",
+        "author": "ሀብታሙ አለባቸው",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438760855i/26043322.jpg",
+        "rating": 3.26
+    },
+    "93": {
+        "title": "አባ ደፋር እና ሌሎች አጫጭር ታሪኮች",
+        "author": "አዳም ረታ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.17
+    },
+    "94": {
+        "title": "አልቦ ዘመድ",
+        "author": "ብርሃኑ ድንቄ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433421929i/25654995.jpg",
+        "rating": 4.5
+    },
+    "95": {
+        "title": "እምቧ በሉ ሰዎች",
+        "author": "ዳኛቸው ወርቁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440326192i/26149943.jpg",
+        "rating": 4.08
+    },
+    "96": {
+        "title": "የመጪው ዘመን ቴክኖሎጂና ኑሮ",
+        "author": "Tilahun Tassew",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442824482i/26589362.jpg",
+        "rating": 4.5
+    },
+    "97": {
+        "title": "መቆያ",
+        "author": "አበራ ለማ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.14
+    },
+    "98": {
+        "title": "ከደንቢያ - ጎንደር እስከ ዋሽንግተን ዲሲ (ከደንቢያ - ጎንደር እስከ ዋሽንግተን ዲሲ, #2)",
+        "author": "አስማማው ኃይሉ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454420933i/28869486.jpg",
+        "rating": 3.3
+    },
+    "99": {
+        "title": "ጠልፎ በኪሴ",
+        "author": "መንግስቱ ለማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440494836i/26162158.jpg",
+        "rating": 3.82
+    },
+    "100": {
+        "title": "ራማቶሓራ",
+        "author": "ይስማዕከ ወርቁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484609682i/33871399.jpg",
+        "rating": 4.2
+    }
+}
