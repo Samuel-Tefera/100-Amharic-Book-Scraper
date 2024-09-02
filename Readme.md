@@ -1,5 +1,5 @@
 # 100 Amharic Book Scraper
-This repository contains a Python script that contains script that scrapes the top 100 Amharic books from a specified website [Goodreads](https://www.goodreads.com/) using Beautiful Soup and coverts the data into JSON format.
+This repository contains a Python script that scrapes the top 100 Amharic books from a specified website [Goodreads](https://www.goodreads.com/) using Beautiful Soup and converts the data into JSON format.
 
 ## Features
 - Scrape book titles, authors, rating and their cover picture source.
