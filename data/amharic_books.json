@@ -598,5 +598,683 @@
         "author": "ይስማዕከ ወርቁ",
         "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484609682i/33871399.jpg",
         "rating": 4.2
+    },
+    "101": {
+        "title": "ጉዞው",
+        "author": "ሲሳይ ንጉሱ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 3.08
+    },
+    "102": {
+        "title": "ብር አምባር ሰበረልዎ",
+        "author": "ብርሃኑ ዘርይሁን",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 3.5
+    },
+    "103": {
+        "title": "ተከርቸም",
+        "author": "ይስማዕከ ወርቁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484598083i/33870307.jpg",
+        "rating": 3.94
+    },
+    "104": {
+        "title": "ጃፓን እንደምን ሰለጠነች?",
+        "author": "ከበደ ሚካኤል",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457331957i/29435727.jpg",
+        "rating": 4.21
+    },
+    "105": {
+        "title": "ስውር ስፌት ቁ.1",
+        "author": "ነቢይ መኰንን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454703184i/28942210.jpg",
+        "rating": 3.78
+    },
+    "106": {
+        "title": "ኢሕአሠ ከ1964 - 1970 ዓ. ም. (የኢትዮጵያ ሕዝባዊ አብዮታዊ ሠራዊት, #1)",
+        "author": "አስማማው ኃይሉ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454421418i/28869559.jpg",
+        "rating": 1.33
+    },
+    "107": {
+        "title": "አለመኖር",
+        "author": "ዳዊት ወንድምአገኝ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488973102i/34510976.jpg",
+        "rating": 4.32
+    },
+    "108": {
+        "title": "ኦሮማይ",
+        "author": "በዓሉ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437479410i/25950663.jpg",
+        "rating": 4.02
+    },
+    "109": {
+        "title": "ወዳጄ ልቤ እና ሌሎችም",
+        "author": "ኅሩይ ወልደ ሥላሴ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440330958i/26150229.jpg",
+        "rating": 4.38
+    },
+    "110": {
+        "title": "ማማ በሰማይ",
+        "author": "Hiwot Teffera",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439376015i/26086838.jpg",
+        "rating": 4.47
+    },
+    "111": {
+        "title": "ጦቢያ",
+        "author": "አፈወርቅ ገብረኢየሱስ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455013810i/28991845.jpg",
+        "rating": 4.35
+    },
+    "112": {
+        "title": "ኢትዮጵያ የባሩድ በርሜል",
+        "author": "Roman Procházka",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440318912i/26149578.jpg",
+        "rating": 3.96
+    },
+    "113": {
+        "title": "መንግሥትና የሕዝብ አስተዳደር",
+        "author": "ገብረሕይወት ባይከዳኝ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.36
+    },
+    "114": {
+        "title": "ሐተታ ዘርዐ ያዕቆብ ወሐተታ ወልደ ሕይወት",
+        "author": "ዘርዐ ያዕቆብ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454062275i/28798427.jpg",
+        "rating": 4.31
+    },
+    "115": {
+        "title": "ስውር ስፌት ቁ.2",
+        "author": "ነቢይ መኰንን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454702979i/28942228.jpg",
+        "rating": 3.8
+    },
+    "116": {
+        "title": "የአሲምባ ፍቅር",
+        "author": "ካሕሳይ አብርሃ ብስራት",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440332022i/26149959.jpg",
+        "rating": 4.44
+    },
+    "117": {
+        "title": "መሬት - አየር - ሰማይ",
+        "author": "ሌሊሳ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440324093i/26149818.jpg",
+        "rating": 2.6
+    },
+    "118": {
+        "title": "የመኝታ ቤት ምስጢሮች",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458551651i/29565174.jpg",
+        "rating": 4.0
+    },
+    "119": {
+        "title": "የማለዳ ድባብ",
+        "author": "በዕውቀቱ ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499665344i/35633667.jpg",
+        "rating": 4.32
+    },
+    "120": {
+        "title": "ኗሪ አልባ ጎጆዎች",
+        "author": "በዕውቀቱ ስዩም",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.48
+    },
+    "121": {
+        "title": "የሱፍ አበባ",
+        "author": "ሀብታሙ አለባቸው",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454311813i/28819575.jpg",
+        "rating": 4.21
+    },
+    "122": {
+        "title": "የቀዳማዊ ኃይለሥላሴ መንግስት",
+        "author": "ዘውዴ ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454706052i/28942498.jpg",
+        "rating": 4.43
+    },
+    "123": {
+        "title": "GEDLA ADAM: The Combat of Adam Against Satan; The Book of Adam & Eve",
+        "author": "Ethiopian Church",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449149655i/28091169.jpg",
+        "rating": 2.83
+    },
+    "124": {
+        "title": "የኢየሱስ ሕይወት",
+        "author": "Ernest Renan",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 3.8
+    },
+    "125": {
+        "title": "ማዕቀብ",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440320479i/26149635.jpg",
+        "rating": 4.13
+    },
+    "126": {
+        "title": "Emegua (Amharic Edition): እመጓ",
+        "author": "Alemayehu Wase",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590651594i/53550025.jpg",
+        "rating": 4.24
+    },
+    "127": {
+        "title": "ኢሕአሠ ከ1970 - 1972 ዓ. ም. (የኢትዮጵያ ሕዝባዊ አብዮታዊ ሠራዊት, #2)",
+        "author": "አስማማው ኃይሉ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454422104i/28869609.jpg",
+        "rating": 2.67
+    },
+    "128": {
+        "title": "የስንብት ቀለማት",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467027317i/30759971.jpg",
+        "rating": 4.22
+    },
+    "129": {
+        "title": "ከደንቢያ - ጎንደር እስከ ዋሽንግተን ዲሲ (ከደንቢያ - ጎንደር እስከ ዋሽንግተን ዲሲ, #1)",
+        "author": "አስማማው ኃይሉ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454420786i/28869329.jpg",
+        "rating": 4.67
+    },
+    "130": {
+        "title": "ተልሚድ",
+        "author": "ይስማዕከ ወርቁ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455020978i/28999785.jpg",
+        "rating": 3.79
+    },
+    "131": {
+        "title": "እሳት ያልገባው ሐረግ",
+        "author": "አደም ሁሴን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454704488i/28942360.jpg",
+        "rating": 1.0
+    },
+    "132": {
+        "title": "ሀዲስ",
+        "author": "በዓሉ ግርማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500449644i/35704136.jpg",
+        "rating": 4.31
+    },
+    "133": {
+        "title": "The Best of Me",
+        "author": "David Sedaris",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598245328i/53487334.jpg",
+        "rating": 4.21
+    },
+    "134": {
+        "title": "ሳይኪ እና ኪዩፒድ",
+        "author": "አብነት ስሜ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454395523i/28862348.jpg",
+        "rating": 3.33
+    },
+    "135": {
+        "title": "ኩርቢት",
+        "author": "ዓለማየሁ ገላጋይ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438869060i/26050813.jpg",
+        "rating": 4.0
+    },
+    "136": {
+        "title": "በዓሉ ግርማ - ሕይወቱና ሥራዎቹ",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458550361i/29565101.jpg",
+        "rating": 4.33
+    },
+    "137": {
+        "title": "ቅንጣት - የኔዎቹ ኖቭሌቶች ‹‹ሞገደኛው ነውጤ እና ሌሎች››",
+        "author": "አበራ ለማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440318088i/26149547.jpg",
+        "rating": 3.0
+    },
+    "138": {
+        "title": "አጥፍቶ መጥፋት",
+        "author": "ዮሐንስ ሙሉጌታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442573553i/26636347.jpg",
+        "rating": 3.17
+    },
+    "139": {
+        "title": "ሕይወትና ሞት",
+        "author": "አበራ ለማ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 0.0
+    },
+    "140": {
+        "title": "ያልተመለሰው ባቡር",
+        "author": "ተስፋዬ ገብረአብ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440146739i/26138844.jpg",
+        "rating": 3.9
+    },
+    "141": {
+        "title": "ታላቁ ተቃርኖ",
+        "author": "ሀብታሙ አለባቸው",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533196767i/41026456.jpg",
+        "rating": 4.13
+    },
+    "142": {
+        "title": "ከጥቁር ሰማይ ስር",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458551711i/29565181.jpg",
+        "rating": 4.29
+    },
+    "143": {
+        "title": "የሶሻሊስቱ ጠንቋይ ጉዳይ እና ሌሎችም ታሪኮች",
+        "author": "Hama Tuma",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431595701i/25536075.jpg",
+        "rating": 4.34
+    },
+    "144": {
+        "title": "የሰርቆ አደሮች ስብሰባ",
+        "author": "ዳንኤል ክብረት",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545032877i/43252278.jpg",
+        "rating": 4.18
+    },
+    "145": {
+        "title": "ፒያሳ መሀሙድ ጋር ጠብቂኝ",
+        "author": "መሀመድ ሰልማን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545033489i/43252295.jpg",
+        "rating": 3.8
+    },
+    "146": {
+        "title": "አማሌሌ",
+        "author": "አዳም ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499667670i/35633971.jpg",
+        "rating": 3.63
+    },
+    "147": {
+        "title": "የብርሃን ልክፍት",
+        "author": "ዮሐንስ ሞላ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442474475i/26601104.jpg",
+        "rating": 3.8
+    },
+    "148": {
+        "title": "1st to Die (Women's Murder Club, #1)",
+        "author": "James Patterson",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522906581i/13137.jpg",
+        "rating": 4.1
+    },
+    "149": {
+        "title": "ሙሽራዋ አይጥ",
+        "author": "ዘነበ አብርሃም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549130865i/43815221.jpg",
+        "rating": 4.11
+    },
+    "150": {
+        "title": "የይሁዳ ድልድይ እና ሌሎች ሃሳቦች",
+        "author": "ኤፍሬም ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454703782i/28942302.jpg",
+        "rating": 4.53
+    },
+    "151": {
+        "title": "ኩራተኛው ድመት",
+        "author": "ከሩዝ ሄርማን",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549130775i/43815191.jpg",
+        "rating": 4.67
+    },
+    "152": {
+        "title": "የሰርቢያው ኢትዮጵያዊ",
+        "author": "በየነ ሞገስ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436511310i/25881807.jpg",
+        "rating": 0.0
+    },
+    "153": {
+        "title": "ማን ይናገር የነበረ...የታኅሣሡ ግርግር እና መዘዙ",
+        "author": "ብርሃኑ አስረስ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442818673i/26789862.jpg",
+        "rating": 3.75
+    },
+    "154": {
+        "title": "ሰልፍ ሜዳ",
+        "author": "ግርማ ተስፋው",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440492701i/26162057.jpg",
+        "rating": 3.0
+    },
+    "155": {
+        "title": "This is Going to Hurt: Secret Diaries of a Junior Doctor",
+        "author": "Adam Kay",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498340278i/35510008.jpg",
+        "rating": 4.4
+    },
+    "156": {
+        "title": "Into the Wild",
+        "author": "Jon Krakauer",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634587789i/1845.jpg",
+        "rating": 4.01
+    },
+    "157": {
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327878144i/6493208.jpg",
+        "rating": 4.12
+    },
+    "158": {
+        "title": "የዕውቀት ብልጭታ",
+        "author": "ከበደ ሚካኤል",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.0
+    },
+    "159": {
+        "title": "የወንደ-ላጤውና የሰራተኛዋ \"ሜሞ\" እና ሌሎች",
+        "author": "ቢንያም ሐብታሙ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441715667i/26250471.jpg",
+        "rating": 3.83
+    },
+    "160": {
+        "title": "When Breath Becomes Air",
+        "author": "Paul Kalanithi",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492677644i/25899336.jpg",
+        "rating": 4.4
+    },
+    "161": {
+        "title": "የንጉስ ልጅ",
+        "author": "እመቤት መንግስቴ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544359257i/43181421.jpg",
+        "rating": 5.0
+    },
+    "162": {
+        "title": "Night  (The Night Trilogy, #1)",
+        "author": "Elie Wiesel",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709507006i/1617.jpg",
+        "rating": 4.37
+    },
+    "163": {
+        "title": "The Autobiography of Benjamin Franklin",
+        "author": "Benjamin Franklin",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428170518i/52309.jpg",
+        "rating": 3.86
+    },
+    "164": {
+        "title": "የኢትዮጵያ ታሪክ ከኢማም አሕመድ እስከ ዐጤ ቴዎድሮስ",
+        "author": "እርቅይሁን በላይነህ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455876903i/29223128.jpg",
+        "rating": 4.71
+    },
+    "165": {
+        "title": "የዓመፃ መንገድ",
+        "author": "ተክሉ አስኳሉ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440325670i/26149910.jpg",
+        "rating": 2.5
+    },
+    "166": {
+        "title": "ኑ ግድግዳ እናፍርስ",
+        "author": "ኤፍሬም ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454703676i/28942295.jpg",
+        "rating": 3.77
+    },
+    "167": {
+        "title": "እኛና አብዮቱ",
+        "author": "ፍቅረሥላሴ ወግደረስ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458548966i/29565021.jpg",
+        "rating": 3.6
+    },
+    "168": {
+        "title": "የማለዳ ስንቅ",
+        "author": "አበራ ለማ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 5.0
+    },
+    "169": {
+        "title": "አዳባይ",
+        "author": "Tilahun Tassew",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442824027i/26769161.jpg",
+        "rating": 0.0
+    },
+    "170": {
+        "title": "ደርሶ መልስ",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458553761i/29565301.jpg",
+        "rating": 3.62
+    },
+    "171": {
+        "title": "ተፈሪ መኮንን ረዥሙ የሥልጣን ጉዞ",
+        "author": "ዘውዴ ረታ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454705816i/28942480.jpg",
+        "rating": 3.2
+    },
+    "172": {
+        "title": "ኬር ሻዶ",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458553573i/29565294.jpg",
+        "rating": 3.55
+    },
+    "173": {
+        "title": "በረከተ መርገም",
+        "author": "ኃይሉ ገብረዮሐንስ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454412516i/2796286.jpg",
+        "rating": 3.29
+    },
+    "174": {
+        "title": "ዳግማዊ አጤ ምኒልክ",
+        "author": "አፈወርቅ ገብረኢየሱስ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.0
+    },
+    "175": {
+        "title": "አቤቶ ኢያሱ አነሳስና አወዳደቅ",
+        "author": "አጥናፍ ሰገድ ይልማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454961032i/28963314.jpg",
+        "rating": 4.0
+    },
+    "176": {
+        "title": "የማይጻፍ ገድል",
+        "author": "በድሉ ዋቅጅራ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501569913i/35891615.jpg",
+        "rating": 3.5
+    },
+    "177": {
+        "title": "የበደል ካሳ",
+        "author": "አጥናፍ ሰገድ ይልማ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454961216i/28963346.jpg",
+        "rating": 3.67
+    },
+    "178": {
+        "title": "ልብ ሲበርደው",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458551970i/29565198.jpg",
+        "rating": 4.0
+    },
+    "179": {
+        "title": "እምቢታ",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458552213i/29565213.jpg",
+        "rating": 3.56
+    },
+    "180": {
+        "title": "ሀዲስ",
+        "author": "በዓሉ ግርማ",
+        "cover_page": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "rating": 4.44
+    },
+    "181": {
+        "title": "In Search of Fat",
+        "author": "Bewketu Seyoum",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355053157i/15903143.jpg",
+        "rating": 4.45
+    },
+    "182": {
+        "title": "የጉለሌው ሰካራም",
+        "author": "በተመስገን ገብሬ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549136546i/43815879.jpg",
+        "rating": 3.89
+    },
+    "183": {
+        "title": "መንገደኛ",
+        "author": "ዮርዳኖስ አልማዝ ሰይፉ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493712256i/35050095.jpg",
+        "rating": 4.5
+    },
+    "184": {
+        "title": "የቅናት ዛር",
+        "author": "ሲሳይ ንጉሱ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455013525i/26138917.jpg",
+        "rating": 3.95
+    },
+    "185": {
+        "title": "ቼ በለው!",
+        "author": "እዮብ ምህረትአብ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501511041i/35881934.jpg",
+        "rating": 3.36
+    },
+    "186": {
+        "title": "የቋንቋ መሰረታዊያን",
+        "author": "አብነት ስሜ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454395183i/28862259.jpg",
+        "rating": 3.8
+    },
+    "187": {
+        "title": "17 መድፌ እና ሃያ ምናምን ቁምጣ",
+        "author": "ሀብታሙ ስዩም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440324644i/26149846.jpg",
+        "rating": 3.14
+    },
+    "188": {
+        "title": "Aquaponics for Beginners: How to Build your own Aquaponic Garden that will Grow Organic Vegetables",
+        "author": "Nick   Brooke",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545155037i/43264204.jpg",
+        "rating": 4.34
+    },
+    "189": {
+        "title": "Kebra Nagast Ethiopic Text & Manuscript",
+        "author": "Amharic Books",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575533712i/49099961.jpg",
+        "rating": 4.56
+    },
+    "190": {
+        "title": "The Boy Who Never Gave Up: St Yared’s Enlightenment Through Failure, in Amharic and English",
+        "author": "Worku L. Mulat",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575068410i/49011923.jpg",
+        "rating": 4.67
+    },
+    "191": {
+        "title": "Killing Lincoln: The Shocking Assassination that Changed America Forever",
+        "author": "Bill O'Reilly",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793681i/10587120.jpg",
+        "rating": 4.05
+    },
+    "192": {
+        "title": "Memory Man (Amos Decker, #1)",
+        "author": "David Baldacci",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421788503i/23153154.jpg",
+        "rating": 4.11
+    },
+    "193": {
+        "title": "The Boy Who Never Gave Up: In English and Amharic",
+        "author": "Worku L. Mulat",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570452424l/52450330.jpg",
+        "rating": 4.67
+    },
+    "194": {
+        "title": "መርበብት",
+        "author": "ዓለማየሁ ዋሴ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520321651i/39015177.jpg",
+        "rating": 4.32
+    },
+    "195": {
+        "title": "Dreams from My Father: A Story of Race and Inheritance",
+        "author": "Barack Obama",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352340675i/88061.jpg",
+        "rating": 3.93
+    },
+    "196": {
+        "title": "ያልተቀበልናቸው",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501507917i/35881304.jpg",
+        "rating": 4.09
+    },
+    "197": {
+        "title": "Bridge to Terabithia",
+        "author": "Katherine Paterson",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618159917i/2839.jpg",
+        "rating": 4.05
+    },
+    "198": {
+        "title": "እግረ መንገድ",
+        "author": "ስብሐት ገብረ እግዚአብሔር",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571883048i/48567167.jpg",
+        "rating": 4.15
+    },
+    "199": {
+        "title": "The Radium Girls: The Dark Story of America’s Shining Women",
+        "author": "Kate  Moore",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496007867i/31409135.jpg",
+        "rating": 4.15
+    },
+    "200": {
+        "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+        "author": "Doris Kearns Goodwin",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676201263i/2199.jpg",
+        "rating": 4.28
+    },
+    "201": {
+        "title": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",
+        "author": "Maya Angelou",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327957927i/13214.jpg",
+        "rating": 4.29
+    },
+    "202": {
+        "title": "Clanlands: Whisky, Warfare, and a Scottish Adventure Like No Other",
+        "author": "Sam Heughan",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601345827i/54415462.jpg",
+        "rating": 4.05
+    },
+    "203": {
+        "title": "The Glass Castle",
+        "author": "Jeannette Walls",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523542886i/7445.jpg",
+        "rating": 4.32
+    },
+    "204": {
+        "title": "WOLFPACK: How to Come Together, Unleash Our Power, and Change the Game",
+        "author": "Abby Wambach",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547660168i/41812857.jpg",
+        "rating": 4.15
+    },
+    "205": {
+        "title": "ሠንሠለት",
+        "author": "ፈቃደ ዮሐንስ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455009702i/28983050.jpg",
+        "rating": 3.8
+    },
+    "206": {
+        "title": "The Rise of Theodore Roosevelt",
+        "author": "Edmund Morris",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586402749i/40929.jpg",
+        "rating": 4.23
+    },
+    "207": {
+        "title": "የጀሚላ እናት",
+        "author": "ተስፋዬ ገብረአብ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440151335i/26139072.jpg",
+        "rating": 3.42
+    },
+    "208": {
+        "title": "ኅሠሣ",
+        "author": "Hiwot Teffera",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497257337i/35420794.jpg",
+        "rating": 3.86
+    },
+    "209": {
+        "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
+        "author": "Richard P. Feynman",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504936953i/35167685.jpg",
+        "rating": 4.27
+    },
+    "210": {
+        "title": "Benjamin Franklin: An American Life",
+        "author": "Walter Isaacson",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630510455i/10883.jpg",
+        "rating": 4.04
+    },
+    "211": {
+        "title": "ትግላችን: የኢትዮጵያ ሕዝብ አብዮታዊ የትግል ታሪክ",
+        "author": "መንግስቱ ኃይለማርያም",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340800959i/15069850.jpg",
+        "rating": 2.63
+    },
+    "212": {
+        "title": "ዛጎል",
+        "author": "እንዳለጌታ ከበደ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458553876i/29565310.jpg",
+        "rating": 3.79
+    },
+    "213": {
+        "title": "ኩርፊያ የሸፈነው ፈገግታ",
+        "author": "ሥዩም ወልዴ ራምሴ",
+        "cover_page": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471339728i/31458039.jpg",
+        "rating": 3.9
     }
 }
